@@ -11,7 +11,7 @@
         android:layout_height="150dp"
         android:layout_marginTop="80dp"
         android:layout_centerHorizontal="true"
-        android:src="@drawable/Logo"
+        android:src="@drawable/logo"
         />
 
     <EditText
