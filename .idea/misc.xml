@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/ChatAppKt/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.118359375" />
         <entry key="..\:/Projects/ChatAppKt/app/src/main/res/drawable/btn_login.xml" value="0.2" />
         <entry key="..\:/Projects/ChatAppKt/app/src/main/res/drawable/edt_background.xml" value="0.206640625" />
+        <entry key="..\:/Projects/ChatAppKt/app/src/main/res/drawable/ic_launcher_background.xml" value="0.118359375" />
         <entry key="..\:/Projects/ChatAppKt/app/src/main/res/layout/activity_log_in.xml" value="0.264" />
         <entry key="..\:/Projects/ChatAppKt/app/src/main/res/layout/activity_sign_up.xml" value="0.21693840579710144" />
       </map>
